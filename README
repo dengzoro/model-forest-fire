@@ -1,0 +1,6 @@
+@All the function is in the matrix.c file
+@you can run the program with the main.c file
+@you can adjust the constant in the matrix.h file (such as f, g, size of the grid, times of run)
+
+@the picture is the curves with P varying as g and f
+@literature survey includes the result analysis.
